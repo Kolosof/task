@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623847956 source:d:\desktop\tasks\task1\task1\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<locale.h>
+
+1624039528 source:d:\desktop\tasks\task1\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<locale.h>
+

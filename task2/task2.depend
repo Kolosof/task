@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624002816 source:d:\desktop\tasks\task2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<regex>
+	<locale.h>
+
